@@ -1,0 +1,9 @@
+{
+    "name": "egret_4399_h5api",
+    "dependence": [],
+    "source":"",
+    "file_list": [
+        "egret_4399_h5api.js",
+        "egret_4399_h5api.d.ts"
+    ]
+}
